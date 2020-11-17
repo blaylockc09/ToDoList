@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Getting Started with this app
+Clone or download the code and then run the 'npm install' command in GitBash to download project dependencies.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
